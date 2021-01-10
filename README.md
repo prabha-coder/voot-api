@@ -14,10 +14,10 @@ https://vootp.herokuapp.com/?q=https://www.voot.com/movies/k-g-f-chapter-1-hindi
 
 ```json
 {
-  "mediaID": "962823",
-  "title": "Petta",
-  "description": "Kaali(Rajinikanth) joins as a boys hostel warden and make great friends with the boys. Things take a turn when Kaali shows up to rescue the pair, Anu and Anwar when bullied. The history reveals when Kaali confronts corrupt politician-cum-gangster Singa Raj (Nawazuddin Siddiqui) and his son. Who is Kaali? What does his history reveal?",
-  "video_url": "https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/0_uel6gydi/format/applehttp/tags/tv/f/a.m3u8"
+  "mediaID": "965391",
+  "title": "K.G.F: Chapter 1 (Hindi)",
+  "description": "Rocky, a young man, with an ambition to die as the wealthiest and powerful man embarks on his mission from the streets of Mumbai to lands up in the fields of KGF, where he gets involved with the notorious mine mafia. Will Rocky's journey filled with dangerous inroads lead him to ambitious goal?",
+  "video_url": "https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/0_avlcjzzt/format/applehttp/tags/tv/f/a.m3u8"
 }
 ```
 
