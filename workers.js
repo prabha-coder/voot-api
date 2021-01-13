@@ -45,15 +45,15 @@ async function handleRequest(request) {
         })
     } else {
         var pass = ({
-            mediaID: result.assets.MediaID,
             title: result.assets.MediaName,
             description: result.assets.Metas[1].Value,
+            thumnail: result.assets.Pictures[0].URL.replace("https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:eco,fl_lossy/kimg", "https://kimg.voot.com"),
             video: result.assets.Files[3].URL
         })
         res_data = {
             "title": pass.title,
             "description": pass.description,
-            "mediaID": pass.mediaID,
+            "thumnail": pass.thumnail,
             "Video_URL": pass.video
         }
         return new Response(await JSON.stringify(res_data), {
